@@ -1,2 +1,2 @@
 # Testingproject
-Manual testing 
+Manual testing on projects
